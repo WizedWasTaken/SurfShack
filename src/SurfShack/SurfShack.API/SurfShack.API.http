@@ -1,0 +1,6 @@
+@SurfShack.API_HostAddress = http://localhost:5124
+
+GET {{SurfShack.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
